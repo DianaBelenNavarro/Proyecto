@@ -1,0 +1,20 @@
+#titulo {
+  background-color: #ccd1d1;
+  text-align: center;
+  font-family: Miriam Fixed;
+  height: 11em;
+  width: auto;
+  padding-top: 0.2cm;
+}
+body {
+  background-color: #ddd;
+  font-family: Arial, sans-serif;
+}
+#general {
+  background-color: #a9cce3;
+  padding-top: 1cm;
+  margin: auto;
+  margin-top: 30px;
+  width: 90%;
+  height: 500px;
+}
